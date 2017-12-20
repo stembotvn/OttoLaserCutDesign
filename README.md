@@ -9,5 +9,7 @@
   | 2x18650 Battery Case       | 1          |
   | Anything you do with Otto |
 
-LaserCut File in PDF Format here. Happy sharing and let's do it for your kids. 
+LaserCut File in PDF Format here. Happy sharing and let's do it for your kids and give us your classroom images. 
+
+For Learn to programming Otto with Scratch2.0 Language: https://github.com/stembotvn/OttoDIY_mBlock_Extension
 
