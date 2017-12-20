@@ -8,4 +8,4 @@
  | 2x18650 Battery Case       | 1          |
  
  
-See assemble instruction here: http://stembot.vn/blogs/learn-do/huong-dan-lap-rap-zowi-vbot
+See assembly instruction here: http://stembot.vn/blogs/learn-do/huong-dan-lap-rap-zowi-vbot
